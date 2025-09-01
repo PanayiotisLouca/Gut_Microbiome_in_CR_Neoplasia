@@ -2,7 +2,7 @@
 
 ## Authors 
 
-*Panayiotis Louca, Sarah Manning, Greg Young, Eleanor Hackney, Yashvee Dunneram, Suparna Mitra, Nathania Bestwick, Christina Dobson, Linda Sharp, Mark A. Hull, Christopher J. Stewart, Colin Rees*
+*Panayiotis Louca, Sarah Manning, Eleanor Hackney, Linda Sharp, Mark A. Hull, Sarah Koo, Greg R. Young, Guy Taylor, Yashvee Dunneram, Suparna Mitra, James Hampton, Christina Dobson, Laura Neilson, Caroline Addison, Emad M El-Omar, the COLOCOHORT research team, Christopher J. Stewart, Colin Rees*
 
 ---
 
