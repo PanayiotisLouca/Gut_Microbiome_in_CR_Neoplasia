@@ -1,8 +1,6 @@
 # Gut Microbiome Dynamics in Colorectal Neoplasia: Associations Across Disease Trajectory and Adenomatous, Serrated, and Sessile Serrated Polyp Subtypes
 
-## Authors 
-
-*Panayiotis Louca, Sarah Manning, Eleanor Hackney, Linda Sharp, Mark A. Hull, Sarah Koo, Greg R. Young, Guy Taylor, Yashvee Dunneram, Suparna Mitra, James Hampton, Christina Dobson, Laura Neilson, Caroline Addison, Emad M El-Omar, the COLOCOHORT research team, Christopher J. Stewart, Colin Rees*
+*Panayiotis Louca, Sarah Manning, Eleanor Hackney, Linda Sharp, Mark A. Hull, Sara Koo, Gregory R. Young, Guy S. Taylor, Yashvee Dunneram, Suparna Mitra, James S. Hampton, Christina Dobson, Laura J. Neilson, Caroline Addison, Emad M El-Omar, the COLO-COHORT research team, Christopher J. Stewart, Colin Rees*
 
 ---
 
