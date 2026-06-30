@@ -4,7 +4,7 @@
 
 ---
 
-  Analysis scripts used in our comprehensive study of the human gut bacteriome across neoplasia categories (DOI: To be updated). 
+  Analysis scripts used in our comprehensive study of the human gut bacteriome across neoplasia categories (DOI: 10.1136/gutjnl-2025-337478). 
 
 ---
 
