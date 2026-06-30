@@ -58,4 +58,4 @@
           
   ## Citation 
   If you use this code, please cite:
-  Louca, P. et al. (2025). *Gut Microbiome Dynamics in Colorectal Neoplasia: Associations Across Disease Trajectory and Adenomatous, Serrated, and Sessile Serrated Polyp Subtypes*. [DOI: To be updated]  
+  Louca, P. et al. (2025). *Gut Microbiome Dynamics in Colorectal Neoplasia: Associations Across Disease Trajectory and Adenomatous, Serrated, and Sessile Serrated Polyp Subtypes*. [10.1136/gutjnl-2025-337478]  
